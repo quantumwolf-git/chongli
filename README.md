@@ -29,4 +29,4 @@ pyinstaler -F chongli.py
 
 now just send the program to your target when they run it you get a very small but usable shell that can be used for foothold or anything else
 
-happy hacking !
+happy hacking !(im not responsable for your actions btw)
